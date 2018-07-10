@@ -31,16 +31,25 @@ Check out final product [here](https://eileenwong9305.github.io/Brighton-Times/)
 
 ## Project Display Screenshot
 Full screen view of the webpage
-![Full screen](screenshots/full_screen.PNG "Full screen")
+<p align="center">
+    <img src="screenshots/full_screen.png" alt="Full screen" width="600">
+</p>
+
 
 Half screen view of webpage
-![Half screen](screenshots/half_screen.PNG "Half screen")
+<p align="center">
+    <img src="screenshots/half_screen.png" alt="Half screen" width="400">
+</p>
 
 Phone screen view of webpage
-![Phone screen](screenshots/phone_screen.jpg "Phone screen")
+<p align="center">
+    <img src="screenshots/phone_screen.jpg" alt="Phone screen" width="300">
+</p>
 
 Expandable navigation drawer
-![Expandable navigation drawer](screenshots/navigation.PNG "Expandable navigation drawer")
+<p align="center">
+    <img src="screenshots/navigation.png" alt="Expandable navigation drawer" width="300" align="middle">
+</p>
 
 ## Bugs and Feature Requests
 If there is a bug or feature request, please open an [issue](https://github.com/eileenwong9305/movie-trailer-website/issues/new).
